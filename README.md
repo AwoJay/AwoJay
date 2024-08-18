@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=awojay&label=PROFILE+VIEWS&style=for-the-badge&color=green" />
   </a>&nbsp;&nbsp;
   </a>&nbsp;&nbsp;
- <a href="https://wakatime.com/@11f29c58-da34-47f8-b4f4-320d060467f8"><img src="https://wakatime.com/badge/user/11f29c58-da34-47f8-b4f4-320d060467f8.svg" alt="Total time coded since Sep 20 2022" /></a>
+ <a href="https://wakatime.com/@11f29c58-da34-47f8-b4f4-320d060467f8"><img src="https://wakatime.com/badge/user/325a4998-2231-4c44-8062-530abcfb6692.svg" alt="Total time coded since Joined Jul 20 2024" /></a>
   <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=awojay&show_icons=true&theme=tokyonight&line_height=25">
   </p>
