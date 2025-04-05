@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align='center'>Hi there!👋🏾 I'm AwoJay⚡</h1> 
-  <p align="center"> I am a Software Developer focused on Backend ( Python {Django} --Javascript + TailwindCSS)</p>
+  <p align="center"> I am a Software Developer focused on Backend ( Python {Django} --Javascript{Nodejs, Expressjs and Mongodb)</p>
   <p align='center'>Currently working 👨‍🍳 on myself, becoming a better programmer! One line at a time!</p>
   <p align='center'> Reach out to me here 👇</p>
 </p>
